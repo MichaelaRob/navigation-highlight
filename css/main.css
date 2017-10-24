@@ -95,6 +95,6 @@ footer {
   margin: 0;
 }
 
-.current {
+li .current {
   background-color: #cc1465;
 }
